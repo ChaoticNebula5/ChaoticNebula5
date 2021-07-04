@@ -12,3 +12,5 @@ You can also call me **Chaotic or Nebula**. I am a **backend developer** who lov
 
 That's all, Have a good one, stay safe! <3
 
+![ChaoticNebula's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChaoticNebula5)
+
