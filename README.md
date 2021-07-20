@@ -10,7 +10,13 @@ You can also call me **Chaotic or Nebula**. I am a **backend developer** who lov
 * I also Make custom bots for your discord server
 * Currently working on Artificial Intelligence using Python! 
 
+# What I am working on :-
+
+* Nothing at the moment 😂
+* Improving my discord bots
+
 That's all, Have a good one, stay safe! <3
+
 
 ![ChaoticNebula's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChaoticNebula5)
 
