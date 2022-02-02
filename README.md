@@ -2,7 +2,7 @@
 
 You can also call me **Chaotic or Nebula**. I am a **full stack developer** who loves to code in **Python, MySQL and Java, HTML, CSS, Javascript**. I also make discord bots using discord.py!
 
-# Projects I have programmed / made:-
+# My Projects:-
 
 * A vaccine finder which uses the CoWin API to find available slots
 * Databases for some small businesses
