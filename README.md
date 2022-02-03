@@ -21,7 +21,7 @@
   <br>
   <img src="https://media.giphy.com/media/7zSBoGW2VoCEzWVjyA/giphy.gif" width="50" /> <b><i align="center">My Mantra : "Ups and Downs are necessary in life because a straight line even in an ECG means we are not alive!”</i></b>
 </p>
-![](https://komarev.com/ghpvc/?username=ChaoticNebula5&color=green)
+
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" />
 
