@@ -59,9 +59,7 @@
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChaoticNebula5&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ChaoticNebula5&show_icons=true&locale=en&theme=tokyonight" alt="ovi" width="410" /></p>
-<br><br><br><br><br><br>
-<p><image align="center" src="https://activity-graph.herokuapp.com/graph?username=ChaoticNebula5&theme=react-dark" alt="ovi" /></p>
-<br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
 
 <hr>
