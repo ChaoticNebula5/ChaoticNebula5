@@ -6,7 +6,6 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am ChaoticNebula </h1>
-<h3 align="center">Full Stack Developer and Future Machine Learning engineer </h3>
 </p>
 </p>
 
@@ -14,7 +13,7 @@
 
 <p align="center">
   <em>
-    Hello, I am ChaoticNebula. A <b>high school student.</b><br>
+    Hello, I am ChaoticNebula. A <b>B.Tech student.</b><br>
     <b>I love to code</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and aim to become a  <b>Machine Learning Engineer.</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>I mainly code
     in <b>Python</b>.
   </em> 
