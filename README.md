@@ -24,7 +24,8 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My Projects***
 
-✔ [Shadow Talk](https://github.com/PixelEngineers/ShadowTalk) - A cross-platform end-to-end encrypted communications app with an extensive focus on privacy
+✔ [Bus Management System](https://github.com/ChaoticNebula5/BusManagement) - A web app built with Flask for institutions to manage buses.<br>
+✔ [Shadow Talk](https://github.com/PixelEngineers/ShadowTalk) - A cross-platform end-to-end encrypted communications app with an extensive focus on privacy<br>
 ✔ [CoWin Vaccine Finder](https://github.com/ChaoticNebula5/VaccineFinder)<br>
 ✔ [Unofficial Tom And Jerry Bot](https://top.gg/bot/804345383110836234) - A verified fun bot focused around Tom and Jerry for discord<br>
 ✔ [Portfolio Website (Outdated techstack)](https://chaoticnebula5.github.io)<br>
