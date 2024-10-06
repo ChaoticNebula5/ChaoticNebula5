@@ -14,8 +14,7 @@
 <p align="center">
   <em>
     Hello, I am ChaoticNebula. A <b>B.Tech student.</b><br>
-    <b>I love to code</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and aim to become a  <b>Machine Learning Engineer.</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>I mainly code
-    in <b>Python</b>.
+    <b>I love to code</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and aim to become a  <b>Machine Learning Engineer.</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp
   </em> 
   <br>
   <img src="https://media.giphy.com/media/7zSBoGW2VoCEzWVjyA/giphy.gif" width="50" /> <b><i align="center">My Mantra : "Ups and Downs are necessary in life because a straight line even in an ECG means we are not alive!”</i></b>
