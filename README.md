@@ -33,8 +33,7 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***What I'm Working on***
 
-✔ Artificial Intelligence using Python<br>
-✔ Learning to use Tensorflow and sckit<br>
+✔ Solving LeetCode problems ;) <br>
 ✔ Machine Learning on a 🥔 pc<br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My Code Stack***
