@@ -41,7 +41,7 @@
   
   <img height="50" src="https://github.com/Thomas-George-T/Thomas-George-T/blob/master/assets/python.svg">
   <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
-  <img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg">
+  <img height="70" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg">
   <img height="50" src="https://www.svgrepo.com/show/303206/javascript-logo.svg">
   <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
   <img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
